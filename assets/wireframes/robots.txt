@@ -1,0 +1,8 @@
+# Hashes are comments
+
+# http://en.wikipedia.org/wiki/Robots_exclusion_standard
+# http://www.robotstxt.org
+
+Sitemap: http://proc0035.site44.com/dsn1543/project-1/assets/wireframes/sitemap.xml
+
+User-agent: *
